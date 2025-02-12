@@ -29,3 +29,5 @@ npm install
 npm start
 ```
 
+### 4. Endpoint Documentation
+https://documenter.getpostman.com/view/31469713/2sAYXCidmR
