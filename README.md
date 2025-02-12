@@ -11,7 +11,7 @@
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/your-repository.git
+https://github.com/champacked/backend-assignment.git
 cd your-repository
 ```
 
