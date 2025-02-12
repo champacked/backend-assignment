@@ -21,16 +21,9 @@ cd your-repository
 npm install
 ```
 
-### 4. Configure Environment Variables
 
-Create a `.env` file in the root directory and add:
 
-```sh
-MONGO_URI=mongodb://localhost:27017/your_database_name
-PORT=5000
-```
-
-### 5. Run the Project
+### 3. Run the Project
 
 ```sh
 npm start
